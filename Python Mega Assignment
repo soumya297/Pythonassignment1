@@ -194,7 +194,7 @@ print(string[::-1])
 Q31. How can you delete entire string at once?
 Ans:-
 string="Big Data iNeuron"
-string.replace("Big Data iNeuron","")
+del string
 
 Q32. What is escape sequence?
 Ans:-
